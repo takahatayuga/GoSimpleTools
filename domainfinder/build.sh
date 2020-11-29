@@ -14,8 +14,8 @@ go build -o ../domainfinder/lib/sprinkle
 echo coolifyをビルドします...
 cd ../coolify
 go build -o ../domainfinder/lib/coolify
-echo domainfyをビルドします...
-cd ../domainfy
-go build -o ../domainfinder/lib/domainfy
+echo domainifyをビルドします...
+cd ../domainify
+go build -o ../domainfinder/lib/domainify
 echo 完了
 
